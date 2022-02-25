@@ -16,6 +16,6 @@ get username and subgraph from hosted url
 
 ```
 graph deploy --product hosted-service \
-  leon-do/rinkeby-erc20-erc721-erc1155 \
+  leon-do/ropsten-erc20-erc721-erc1155 \
   ./generated/sample.subgraph.yaml
 ```
