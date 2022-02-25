@@ -1,0 +1,7 @@
+{
+    "output": "generated/sample.",
+    "chain": "ropsten",
+    "datasources": [
+        { "module": ["erc20", "erc721", "erc1155"] }
+    ]
+  }
