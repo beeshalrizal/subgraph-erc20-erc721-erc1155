@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@openzeppelin/subgraphs": "^0.1.7-1"
+    "@openzeppelin/subgraphs": "^0.1.8-5"
   }
 }
