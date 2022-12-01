@@ -2,6 +2,8 @@
 
 `npm install`
 
+Update chain: https://github.com/leon-do/subgraph-erc20-erc721-erc1155/blob/main/configs/sample.json#L3
+
 ```
 npx graph-compiler \
   --config configs/sample.json \
