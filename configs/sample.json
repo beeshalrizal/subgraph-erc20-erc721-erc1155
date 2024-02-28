@@ -1,7 +1,5 @@
 {
-    "output": "generated/sample.",
-    "chain": "mainnet",
-    "datasources": [
-        { "module": ["erc20", "erc721", "erc1155"] }
-    ]
-  }
+  "output": "generated/sample.",
+  "chain": "optimism",
+  "datasources": [{ "module": ["erc20"] }]
+}
