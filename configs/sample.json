@@ -1,5 +1,9 @@
 {
   "output": "generated/sample.",
   "chain": "optimism",
-  "datasources": [{ "module": ["erc20"] }]
+  "datasources": [
+    {
+      "module": ["erc20"]
+    }
+  ]
 }
